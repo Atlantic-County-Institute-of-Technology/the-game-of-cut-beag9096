@@ -25,14 +25,14 @@ public class arrDeck {
 
     public String toString() {
         String strDeck = "";
-        for (int i=0; i < deck.length; i++) {
+        for (int i = 0; i < deck.length; i++) {
             strDeck = strDeck + deck[i].toString() + "\n";
         }
         return strDeck;
     }
 
     public card selectCard(int index) {
-
+        return deck[p1pick];
     }
 
 }
@@ -41,34 +41,3 @@ public class arrDeck {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//    public card selectCard(int target) {
-//        return deck[target];
-//    }
-//
-//    public int getDeckSize() {
-//        return deckSize;
-//    }
