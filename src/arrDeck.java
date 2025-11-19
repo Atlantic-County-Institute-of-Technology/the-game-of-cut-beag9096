@@ -31,9 +31,19 @@ public class arrDeck {
         return strDeck;
     }
 
-    public card selectCard(int index) {
-        return deck[p1pick];
+    public card selectCard(int target) {
+        return deck[target];
     }
+
+    public card removeCard(int index){
+        card removeCard = deck[index];
+        for (int i = index; i <51; i++) {
+            deck[i] = deck[i+1];
+        }
+        deck[51] = null;
+        return removeCard;
+    }
+
 
 }
 

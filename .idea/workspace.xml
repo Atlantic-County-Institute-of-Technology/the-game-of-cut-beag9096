@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f076bef-c62b-46b9-9f64-c428579b1d4e" name="Changes" comment="11/14/25&#10;&#10;(from last class because it wouldn't let me commit then)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/arrDeck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/arrDeck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arrDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrDeck.java" afterDir="false" />
     </list>
